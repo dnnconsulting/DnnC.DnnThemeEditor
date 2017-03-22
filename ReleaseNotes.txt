@@ -1,0 +1,24 @@
+﻿<h3>DnnThemeEditor</h3>
+<p class="Contributor">
+	G Barlow (DnnConsulting.net <br />
+	<a href="mailto:modules@dnnconsulting.nl">modules@dnnconsulting.nl</a><br />
+	<a href=https://dnnconsulting.net>https://dnnconsulting.net</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DnnThemeEditor</h3>
+	<p class="Owner">
+		<b>V01.00.01</b><br /><br />
+	</p>
+	<p>
+		Solved the problem with multi eitable themes on the same portal
+	</p>
+	<h3>About the DnnThemeEditor</h3>
+	<p class="Owner">
+		<b>V01.00.00</b><br /><br />
+	</p>
+	<p>
+		The first release of the Free DnnThemeEditor.
+	</p>
+	
+</div>
