@@ -21,7 +21,7 @@ Don't want to incorporate the DnnThemeEditor yourself? We can do it for you!
 
 Make use of our DnnThemeEditor service, tell us what you would like to be editable in your theme and we'll make sure that it happens!
 
-For more information, [http://www.dnnthemeeditor.com/Contact](click here "DnnConsulting DnnThemeEditor") to contact us!
+For more information,contact us :[http://www.dnnthemeeditor.com/Contact](http://www.dnnthemeeditor.com/Contact "Official DnnThemeEditor website, contact")
 
 
 Enjoy!
