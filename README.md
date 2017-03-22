@@ -1,9 +1,9 @@
 # DnnThemeEditor 
 ## Description
 
-A free Dnn SkinOject for Dnn theme developers and Dnn buros.
+A free Dnn SkinObject for Dnn theme developers and Dnn buros.
 
-Documentation of the skinobject can be found here: [http://www.dnnthemeeditor.com](http://www.dnnthemeeditor.com "Official DnnThemeEditor website")
+Documentation of the SkinObject can be found here: [http://www.dnnthemeeditor.com](http://www.dnnthemeeditor.com "Official DnnThemeEditor website")
 
 ## The first free Dnn Platform theme editor!
 The DnnThemeEditor can be incorporated into any Dnn theme easily with 1 config file and 1 template file.
