@@ -8,6 +8,12 @@
 <div class="License">
 	<h3>About the DnnThemeEditor</h3>
 	<p class="Owner">
+		<b>V01.00.02</b><br /><br />
+	</p>
+	<p>
+		Corrected a small spelling mistake. Thanks to Andreas Flohr for testing the ThemeEditor!
+	</p>
+	<p class="Owner">
 		<b>V01.00.01</b><br /><br />
 	</p>
 	<p>
